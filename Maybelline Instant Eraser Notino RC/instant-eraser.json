@@ -1,0 +1,573 @@
+{
+    "keys": [
+        "maybelline/age-rewind-korektor-w-plynie/p-15749668/"
+    ],
+    "type": 0,
+    "language": "pl-PL",
+    "campaign": "Instant Eraser",
+    "rpc": "MAY02324",
+    "dateOnSaleFrom": null,
+    "owner": "MatusC",
+    "contents": [
+        {
+            "name": "Instant Eraser",
+            "key": "",
+            "isApproved": false,
+            "rich": {
+                "components": [
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "KV5.jpg",
+                                "element": "img",
+                                "alt": "Ikona wśród korektorów. Instant Eraser. Multifunkcyjny korektor z aplikatorem w formie gąbeczki",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px",
+                            "marginBottom": "35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "KV5-mobile.jpg",
+                                "element": "img",
+                                "alt": "Ikona wśród korektorów. Instant Eraser. Multifunkcyjny korektor z aplikatorem w formie gąbeczki",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD5-02.jpg",
+                                "element": "img",
+                                "alt": "Klik i kryjesz, korygujesz, konturujesz.",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px",
+                            "marginBottom": "35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD5-02-mobile.jpg",
+                                "element": "img",
+                                "alt": "Klik i kryjesz, korygujesz, konturujesz.",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "columnsFive",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Żółty",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginTop": "10px",
+                                    "marginBottom": "0",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "Kryje niedoskonałości",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "marginTop": "-10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD5-03-A.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "Zielony",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginTop": "10px",
+                                    "marginBottom": "0",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "Redukuje zaczerwienienia",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "marginTop": "-10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD5-03-B.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "Fioletowy",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginTop": "10px",
+                                    "marginBottom": "0",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "Neutralizuje żółte tony*, koryguje szarość cery",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "marginTop": "-10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD5-03-C.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnFourTitle",
+                                "value": "Pomarańczowy",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginTop": "10px",
+                                    "marginBottom": "0",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnFourText",
+                                "value": "Wyrównuje koloryt skóry, neutralizuje przebarwienia*",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "marginTop": "-10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnFourAsset",
+                                "value": "MOD5-03-D.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnFiveTitle",
+                                "value": "Różowy",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginTop": "10px",
+                                    "marginBottom": "0",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnFiveText",
+                                "value": "Koryguje cienie pod oczami",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "marginTop": "-10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnFiveAsset",
+                                "value": "MOD5-03-E.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD5-04.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD5-04-mobile.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "fiftyFifty",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "Instant eraser",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginBottom": "40px",
+                                    "marginLeft": "20px"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "Nawilża skórę do 12h*. Nie roluje się. Kryje niedoskonałości. Łatwy w aplikacji dzięki aplikatorowi w formie gąbeczki. Kryje cienie pod oczami. Nie powoduje powstawania zaskórników.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "18px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "lineHeight": "2",
+                                    "marginRight": "20px"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "MOD5-05.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "20px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "INNE PRODUKTY, KTÓRE MOGĄ CI SIĘ SPODOBAĆ",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "20px",
+                            "marginBottom": "25px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "columnsThree",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "SUPER STAY LUMI MATTE",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginTop": "10px",
+                                    "textTransform": "uppercase",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "Lekki, długotrwały podkład, który zapewni Ci nieskazitelne krycie aż do 30\u00a0godzin! (test konsumencki, 120 osób). Odkryj efekt satynowego matu i\u00a0zapomnij o efekcie maski.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "textAlign": "center",
+                                    "marginTop": "-20px"
+                                }
+                            },
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD5-06-A.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "SKY HIGH",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginTop": "10px",
+                                    "textTransform": "uppercase",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "Tusz do rzęs, który zapewnia jednocześnie nieziemskie wydłużenie oraz zwiększoną objętość rzęs.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "textAlign": "center",
+                                    "marginTop": "-20px"
+                                }
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD5-06-B.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "VINYL INK",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginTop": "10px",
+                                    "textTransform": "uppercase",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "Płynna szminka zapewnia długotrwały połysk, niczym lakier do ust. Intensywny kolor utrzymuje się aż do 16h (test konsumencki (samoocena)), nie rozmazuje się i nie ściera.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "textAlign": "center",
+                                    "marginTop": "-20px"
+                                }
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD5-06-C.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "*Test instrumentalny",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "12px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "textAlign": "center",
+                                    "margin": "0",
+                                    "width": "80%",
+                                    "marginLeft": "auto",
+                                    "marginRight": "auto"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "50px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
